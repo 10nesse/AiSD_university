@@ -16,6 +16,5 @@
 
 ## Лабораторные работы
 
-- [Лабораторная работа №1: Изучение библиотеки NumPy](https://github.com/10nesse/university/tree/main/Лабораторная%20работа%20№1)
-- [Лабораторная работа №2: Изучение библиотеки Pandas](https://github.com/10nesse/university/tree/main/Лабораторная%20работа%20№2)
-- [Лабораторная работа №3: Работа с файлами JSON и XML](https://github.com/10nesse/university/tree/main/Лабораторная%20работа%20№3)
+- [Домашняя работа №1: Работа с классами и методами в Python. Создание классов для работы с геометрическими фигурами.](https://github.com/10nesse/AiSD_university/tree/main/Homework%20%E2%84%961) 
+- [Домашняя работа №2: Создание класса для ведения журнала оценок студентов.](https://github.com/10nesse/AiSD_university/tree/main/Homework%20%E2%84%962)
